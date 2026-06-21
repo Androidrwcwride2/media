@@ -1,4 +1,4 @@
-# AndroidX Media
+# Android.X.Media
 
 AndroidX Media is a collection of libraries for implementing media use cases on
 Android, including local playback (via ExoPlayer), video editing (via Transformer) and media sessions.
